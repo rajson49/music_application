@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+This is music application project which made in flutter framwork,
+include some music file in assert and use of just_play library to play music.
+
+
+Front Page:
+https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
