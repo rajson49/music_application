@@ -7,7 +7,7 @@ include some music file in assert and use of just_play library to play music.
 
 
 Front Page:
-https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png
+https://raw.githubusercontent.com/londonappbrewery/Images/master/xylophone-flutter.png
 
 
 ## Getting Started
